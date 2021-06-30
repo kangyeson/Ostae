@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c12a6b73c040cba489c2c0fed2578b4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myBack: {instanceID: 0}
+  - backClip: {fileID: 8300000, guid: 3cd540662a0830543847b1971231b88b, type: 3}
+  - clickClip: {fileID: 8300000, guid: 3cd540662a0830543847b1971231b88b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
