@@ -1,7 +1,7 @@
 # Unity project 'Ostae'🏛🗺
 ### 한중일 전통복 박물관 (Traditional Clothing Museum)
 * 옷;태 <br>
-① 시간의 흐름에 따라 새겨진 옷의 나이테 The age frame of the clothes carved over time<br>
+① 시간의 흐름에 따라 새겨진 옷의 나이테
 ② 옷매, 옷 매무새를 나타내는 순 우리말
 * Ostae <br>
 ① The age frame of the clothes carved over time<br>
